@@ -1,0 +1,2 @@
+# python_practice_elemently1st
+python1年生練習兼github練習用レポジトリ
